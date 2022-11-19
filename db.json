@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "title": "Gym",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "title": "Tan",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "title": "Laundry",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Sun",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Meal",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
